@@ -3,15 +3,6 @@
 ---
 
 
-```button
-name Añadir serie
-type command
-action QuickAdd: 🎞️ Add Series 🎞️
-```{ #button-series}
-
-
----
-
 > [[🎞️ Películas (P) y series (S) 🎞️/🎞️ Cortometrajes (CM) 🎞️\|🎞️ Cortometrajes (CM) 🎞️]]
 
 > [[🎞️ Películas (P) y series (S) 🎞️/Series de mi infancia\|Series de mi infancia]]
