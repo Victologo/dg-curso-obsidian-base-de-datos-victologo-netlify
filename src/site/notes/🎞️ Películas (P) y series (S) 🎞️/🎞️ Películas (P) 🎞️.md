@@ -11,7 +11,6 @@
 
 ---
 
-
 # Películas por ver
 
 | Título                                                                                                                                                               | Portada                                                                                                                                                   | Género                                                                   | Año  | 🌟 Yo | 🌟 IMDb |
