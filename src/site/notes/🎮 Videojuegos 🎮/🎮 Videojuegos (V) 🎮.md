@@ -3,13 +3,6 @@
 ---
 
 
-```button
-name Añadir videojuego
-type command
-action QuickAdd: 🎮 Add Videogame 🎮
-```{ #button-book}
-
-
 # Videojuegos por probar (juegazos)
 
 | Título                                                                                                              | Género                                                                                                                     | Modos                                                                                                               | Portada                                                                                         | Año  | 🌟 Yo |
@@ -127,6 +120,8 @@ action QuickAdd: 🎮 Add Videogame 🎮
 
 | Título                                                                                                                                | Género                                                                                                   | Modos                                                                                         | Portada                                                                           | Lanzamiento | 🌟 Yo |
 | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------- | ----- |
+| [[🎮 Videojuegos 🎮/V - Wii Sports\|V - Wii Sports]]                                                                               | <ul><li>Simulator</li><li>Sport</li></ul>                                                                | <ul><li>Single player</li><li>Multiplayer</li><li>Co-operative</li><li>Split screen</li></ul> | ![coverImg\|87](https://images.igdb.com/igdb/image/upload/t_cover_big/co3vge.jpg) | 2006        | 7     |
+| [[🎮 Videojuegos 🎮/V - Wii Sports Resort\|V - Wii Sports Resort]]                                                                 | <ul><li>Sport</li></ul>                                                                                  | <ul><li>Single player</li><li>Multiplayer</li><li>Split screen</li></ul>                      | ![coverImg\|87](https://images.igdb.com/igdb/image/upload/t_cover_big/co2may.jpg) | 2009        | 8     |
 | [[🎮 Videojuegos 🎮/V - Wii Party\|V - Wii Party]]                                                                                 | <ul><li>Quiz/Trivia</li></ul>                                                                            | <ul><li>Single player</li><li>Multiplayer</li></ul>                                           | ![coverImg\|87](https://images.igdb.com/igdb/image/upload/t_cover_big/co2cnj.jpg) | 2010        | 6.5   |
 | [[🎮 Videojuegos 🎮/V - Wii Fit Plus\|V - Wii Fit Plus]]                                                                           | <ul><li>Sport</li></ul>                                                                                  | <ul><li>Single player</li><li>Multiplayer</li></ul>                                           | ![coverImg\|87](https://images.igdb.com/igdb/image/upload/t_cover_big/co3wlf.jpg) | 2009        | 6     |
 | [[🎮 Videojuegos 🎮/V - Wario Land Shake It!\|V - Wario Land Shake It!]]                                                           | <ul><li>Platform</li><li>Simulator</li><li>Adventure</li><li>Indie</li></ul>                             | <ul><li>Single player</li></ul>                                                               | ![coverImg\|87](https://images.igdb.com/igdb/image/upload/t_cover_big/co1wnw.jpg) | 2008        | 6     |
